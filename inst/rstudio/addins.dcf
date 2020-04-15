@@ -1,0 +1,5 @@
+Name: Safe run selection
+Description: Runs the current selection as a code block (which will stop on error).
+Binding: safe_run
+Interactive: false
+
