@@ -22,7 +22,7 @@ And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("maurolepore/safe.run")
+devtools::install_github("cjyetman/safe.run")
 ```
 
 ## Example
